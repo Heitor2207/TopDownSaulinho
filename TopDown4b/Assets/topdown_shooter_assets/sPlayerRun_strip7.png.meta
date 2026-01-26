@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: c94677a672b83554eb32f3ef9c3ed1bc
+guid: 8211ef45fd516d04bab39e8287b0a4ab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2918106902554107766
-    second: sEnemy_strip7_0
+      213: 9153617591221827883
+    second: sPlayerRun_strip7_0
   - first:
-      213: 8624515822963100446
-    second: sEnemy_strip7_1
+      213: 5296772126042657594
+    second: sPlayerRun_strip7_1
   - first:
-      213: -6710327170510770155
-    second: sEnemy_strip7_2
+      213: 5536336099334901456
+    second: sPlayerRun_strip7_2
   - first:
-      213: -6765102282180075183
-    second: sEnemy_strip7_3
+      213: -3278922710695044603
+    second: sPlayerRun_strip7_3
   - first:
-      213: -7051769739562502026
-    second: sEnemy_strip7_4
+      213: -614625599558302535
+    second: sPlayerRun_strip7_4
   - first:
-      213: 8975329005974275734
-    second: sEnemy_strip7_5
+      213: -2568427307819562037
+    second: sPlayerRun_strip7_5
   - first:
-      213: -4855478681050893451
-    second: sEnemy_strip7_6
+      213: -1821059061499486442
+    second: sPlayerRun_strip7_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,126 +114,42 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sEnemy_strip7_0
+      name: sPlayerRun_strip7_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 5
-        width: 33
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a80a5a0ab3dc087d0800000000000000
-      internalID: -2918106902554107766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sEnemy_strip7_1
-      rect:
-        serializedVersion: 2
-        x: 43
+        x: 6
         y: 4
-        width: 34
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1b8373427f60b770800000000000000
-      internalID: 8624515822963100446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sEnemy_strip7_2
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 4
-        width: 32
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 510bd03cdf020e2a0800000000000000
-      internalID: -6710327170510770155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sEnemy_strip7_3
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 3
-        width: 32
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 151e87141578d12a0800000000000000
-      internalID: -6765102282180075183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sEnemy_strip7_4
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 6
         width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6783783a8c4132e90800000000000000
-      internalID: -7051769739562502026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sEnemy_strip7_5
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 3
-        width: 33
         height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -243,20 +159,130 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6964b577d26ce8c70800000000000000
-      internalID: 8975329005974275734
+      spriteID: b293b8683be280f70800000000000000
+      internalID: 9153617591221827883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sEnemy_strip7_6
+      name: sPlayerRun_strip7_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3396f46f2ae18940800000000000000
+      internalID: 5296772126042657594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de470e795405dc40800000000000000
+      internalID: 5536336099334901456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9f07ca2dee72d0800000000000000
+      internalID: -3278922710695044603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4477c06496877f0800000000000000
+      internalID: -614625599558302535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb800eb8fc1b5cd0800000000000000
+      internalID: -2568427307819562037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_6
       rect:
         serializedVersion: 2
         x: 244
-        y: 3
-        width: 35
-        height: 33
+        y: 4
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,8 +291,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 573ba717ddfdd9cb0800000000000000
-      internalID: -4855478681050893451
+      spriteID: 61f11549e6c4ab6e0800000000000000
+      internalID: -1821059061499486442
       vertices: []
       indices: 
       edges: []
@@ -285,13 +311,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sEnemy_strip7_0: -2918106902554107766
-      sEnemy_strip7_1: 8624515822963100446
-      sEnemy_strip7_2: -6710327170510770155
-      sEnemy_strip7_3: -6765102282180075183
-      sEnemy_strip7_4: -7051769739562502026
-      sEnemy_strip7_5: 8975329005974275734
-      sEnemy_strip7_6: -4855478681050893451
+      sPlayerRun_strip7_0: 9153617591221827883
+      sPlayerRun_strip7_1: 5296772126042657594
+      sPlayerRun_strip7_2: 5536336099334901456
+      sPlayerRun_strip7_3: -3278922710695044603
+      sPlayerRun_strip7_4: -614625599558302535
+      sPlayerRun_strip7_5: -2568427307819562037
+      sPlayerRun_strip7_6: -1821059061499486442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
