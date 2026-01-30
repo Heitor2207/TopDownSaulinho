@@ -360,7 +360,7 @@ MonoBehaviour:
   - {fileID: 136365202}
   - {fileID: 308022639}
   - {fileID: 924543029}
-  enemy: {fileID: 7330236333117550050, guid: b125d4613a80a9743859b71f29a02ff4, type: 3}
+  enemy: {fileID: 6085046947212278714, guid: 68b68cef3a1d205498928c354badd585, type: 3}
 --- !u!1 &877486664
 GameObject:
   m_ObjectHideFlags: 0
@@ -779,7 +779,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -3368272833400303480, guid: 973dd88038e4a2b44968420977659f9b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -803,7 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4af4f1544ff747e4a8e5b2a1b1e299fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 2840188244499023131, guid: be2e19cb8c9c0df449a44c84a6821055, type: 3}
+  bullet: {fileID: 0}
   spawnBullet: {fileID: 877486665}
 --- !u!1 &1502724399
 GameObject:
