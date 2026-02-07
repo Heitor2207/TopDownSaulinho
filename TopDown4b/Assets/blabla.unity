@@ -803,7 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4af4f1544ff747e4a8e5b2a1b1e299fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 0}
+  bullet: {fileID: 6483289394685084312, guid: c4a9dfcb887a2d140b508e2cac3d96fb, type: 3}
   spawnBullet: {fileID: 877486665}
 --- !u!1 &1502724399
 GameObject:
@@ -1222,11 +1222,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2070617102350589743, guid: 911f3eaae014c4e4881cff10bd1d4d9f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2070617102350589743, guid: 911f3eaae014c4e4881cff10bd1d4d9f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2070617102350589743, guid: 911f3eaae014c4e4881cff10bd1d4d9f, type: 3}
       propertyPath: m_LocalPosition.z
